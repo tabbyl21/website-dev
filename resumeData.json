@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name":"Tabatha Lewis",
+    "description":"Mathematics of Computations UCLA graduate who is looking for work!",
+    "image":"profilepic.jpg",
+    "bio":"I'm an eager, recent UCLA graduate! I am looking to work in Data Science/Engineering!",
+    "email": "tabathasuzannelewis@gmail.com",
+    "phone": "555-555-5555",
+    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "linkedin" : "https://www.linkedin.com/in/tabatha-lewis-4a6817151/",
+    "address":{
+      "street":"(Your Street)",
+      "city":"La Jolla,",
+      "state":"California",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "https://tabbyl21.github.io/tabatharesumesite",
+    "resumedownload":"https://tabbyl21.github.io/resume/Tabatha_Lewis_Resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tabatha-lewis-4a6817151/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/tabbyl21",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of California, Los Angeles",
+        "degree":"Mathematics of Computation, Bachelor of Science",
+        "graduated":"June 2020",
+        "description":"Studied Mathematics and Computer Science. Took coursework in Biology, Chemistry, Physics and French!"
+      }
+    ],
+    "work":[
+      {
+        "company":"NBCUniversal",
+        "title":"Machine Learning Intern",
+        "years":"Jan 2020 - May 2020",
+        "description":"Investigated the XGBoost Machine Learning Algorithm and its application to NBC’s recommendation engine. Conducted data analysis on datasets with hundreds of millions of entries using Python, Spark and SQL to draw data driven consumer insights. Cleaned datasets and created visualizations using DOMO to present findings."
+      },
+      {
+        "company":"Fox Corporation",
+        "title":"Summer Video Engineering Intern, Fall Video Engineering Intern, Software Developer",
+        "years":"May 2019 - Jan 2020",
+        "description":"Created internal tools such as a tool to extract id3 tags and Nielsen watermarks from live video streams (VDMS and AWS) utilizing AWS and Python and created a web interface to access the tool with React (JavaScript, HTML/CSS). Resolved issues with Verizon's API logging messages to Splunk. Worked with complex Video and API structures and formats."
+      },
+      {
+        "company":"SEASnet Computing Facility",
+        "title":"Lab Consultant",
+        "years":"Jan 2019- June 2020",
+        "description":"Answered technology and software related questions in a time sensitive environment. Diagnosed and resolved basic hardware and software failures."
+      },
+      {
+        "company":"Daily Bruin",
+        "title":"Opinion Columnist, News and A&E Contributor",
+        "years":"Oct 2017 -June 2020",
+        "description":"Wrote articles for UCLA’s award-winning newspaper. Collected and vetted facts within time constraints by conducting informative interviews for and with the public. Quickly understood advanced research topics in a variety of fields, such as neuroscience, biology, psychology and sociology, and explained the research to the general public in a digestible manner."
+      },
+      {
+        "company":"Stealth Start-Up",
+        "title":"Software Engineering Intern - Data",
+        "years":"July 2017 – Feb 2018",
+        "description":"Created Python modules for risk metric analysis of stock portfolios at an AI based stock trading stealth startup. Pulled and analyzed stock data from Yahoo Finance."
+      },
+      {
+        "company":"Geschwind Laboratory UCLA",
+        "title":"Undergraduate Researcher",
+        "years":"Oct 2016 – Feb 2017",
+        "description":"Analyzed gene expression in hundreds of thousands of cells and used R to eliminate biases introduced by the gene detection methods."
+      },
+      {
+        "company":"Ozcan Research Group UCLA",
+        "title":"Undergraduate Researcher",
+        "years":"June 2016 – Aug 2016",
+        "description":"Prepared biological samples and examined samples using imaging techniques, such as dark-field and bright-field microscopy."
+      }
+    ],
+    "skills":[
+      {
+        "name":"C, C++, Unix, Reg Ex, Bash/Shell, Java, Python (Numpy, Pandas, SciPy, Matplotlib), R (ggplot) , JavaScript (d3.js, React), Unity, Matlab, Git, HTML/CSS, Spark, SQL, Tensorflow, AWS, Databricks, Splunk, Docker, Tableau, Microsoft Office Suite, Adobe Suite"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Music Visualization Class Project",
+        "category":"Project for UCLA CS174A: Intro to Graphics. With two other classmates we implemented a music API, and designed a collision detection system, ray casting and mouse click from scratch. ",
+        "image":"music-visualization.png",
+        "url":"https://intro-graphics-master.github.io/term-project-27/"
+      },
+      {
+        "title":"Daily Bruin Articles",
+        "category":"A link to articles I have written for the Daily Bruin.",
+        "image":"daily-bruin.png",
+        "url":"https://dailybruin.com/author/tabatha-lewis"
+      },
+      {
+        "title":"Her Campus Articles",
+        "category":"A link to articles I have written for Her Campus",
+        "image":"her-campus.png",
+        "url":"https://www.hercampus.com/author/tabatha-lewis-sim"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+     {
+        "text":"You en’t afraid, are you? Not yet. When I am, I shall master the fear.",
+        "user":"Phillip Pullman. The Golden Compass."
+      },
+      {
+        "text":"A whale is as intelligent as we are, just in a way we can’t quite measure or understand. Because we’re these incredibly blunt instruments.",
+        "user":"Jeff VanderMeer. Acceptance."
+      }
+    ]
+  }
+}
