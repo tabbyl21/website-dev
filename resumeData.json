@@ -3,7 +3,7 @@
     "name":"Tabatha Lewis",
     "description":"Mathematics of Computations UCLA graduate who is looking for work!",
     "image":"profilepic.jpg",
-    "bio":"I'm an eager, recent UCLA graduate! I am looking to work in Data Science/Engineering!",
+    "bio":"I'm an eager, recent UCLA graduate! I am looking to work in AI/Software Engineering!",
     "email": "tabathasuzannelewis@gmail.com",
     "phone": "555-555-5555",
     "github":"https://github.com/nordicgiant2/react-nice-resume",
@@ -92,6 +92,12 @@
   },
   "portfolio":{
     "projects": [
+       {
+        "title":"Computer Vision Pill Counter: Phision.Ai",
+        "category":"Trained Facebook's Detectron2 to detect and count pharmacy pills. Created a application through which users can send images on their phones and run an inference on their image.",
+        "image":"phision.png",
+        "url":"https://phision.ai/"
+      },
       {
         "title":"Music Visualization Class Project",
         "category":"Project for UCLA CS174A: Intro to Graphics. With two other classmates we implemented a music API, and designed a collision detection system, ray casting and mouse click from scratch. ",
